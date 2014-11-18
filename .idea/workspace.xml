@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="a768fd3a-2e6d-4e56-ae27-0bca44722ae8" time="1416274421854" ignored="false" />
     <file path="/index.html" changelist="a768fd3a-2e6d-4e56-ae27-0bca44722ae8" time="1416290187343" ignored="false" />
-    <file path="/gril.htm" changelist="a768fd3a-2e6d-4e56-ae27-0bca44722ae8" time="1416290541178" ignored="false" />
+    <file path="/gril.htm" changelist="a768fd3a-2e6d-4e56-ae27-0bca44722ae8" time="1416293118270" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="gril.htm" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gril.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="294" column="15" selection-start="8328" selection-end="8328" vertical-scroll-proportion="0.80748665">
+            <state line="400" column="56" selection-start="10722" selection-end="10722" vertical-scroll-proportion="0.23172906">
               <folding />
             </state>
           </provider>
@@ -348,7 +348,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gril.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="294" column="15" selection-start="8328" selection-end="8328" vertical-scroll-proportion="0.80748665">
+        <state line="400" column="56" selection-start="10722" selection-end="10722" vertical-scroll-proportion="0.23172906">
           <folding />
         </state>
       </provider>
